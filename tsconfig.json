@@ -13,5 +13,5 @@
       "@al-auqash/utils/object": ["./utils/object"],
       "@al-auqash/utils/string": ["./utils/string"]
     }
-  }
+  },
 }
