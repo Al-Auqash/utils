@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "baseUrl": ".",
+    "paths": {
+      "@al-auqash/utils/miscellaneous": ["./utils/miscellaneous"],
+      "@al-auqash/utils/password": ["./utils/password"],
+      "@al-auqash/utils/object": ["./utils/object"],
+      "@al-auqash/utils/string": ["./utils/string"]
+    }
+  }
+}
